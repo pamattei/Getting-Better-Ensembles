@@ -1,0 +1,2 @@
+"the_great_wall" "fifty_shades_darker" "american_violence" "boss_baby" "the_shack" "john_wick" "kong_skull_island" "ghost_in_the_shell" "lego_batman_movie" "rings" "fist_fight" "beauty_and_beast" "the_space_between_us" "logan" "life" "fast_and_furious_8" "smurfs_lost_village" "patient_zero" "the_circle" "leap"
+"1" 49 53 40 62 84 89 74 62 82 28 47 85 62 92 60 79 72 NA 25 79
