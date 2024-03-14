@@ -5,6 +5,7 @@ The notebooks wisdom_crowds_rotten_tomatoes replicates and extends the results o
 
 
 References:
-J. T. Barron. A general and adaptive robust loss function. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4331–4339, 2019
-P.-A. Mattei and D. Garreau, Are ensembles getting better all the time?, arXiv:2311.17885, 2024
-C. Simoiu, C. Sumanth, A. Mysore, and S. Goel, Studying the “wisdom of crowds” at scale, Proceedings of the AAAI Conference on Human Computation and Crowdsourcing, vol. 7, pp. 171–179, 2019.
+
+- P.-A. Mattei and D. Garreau, Are ensembles getting better all the time?, arXiv:2311.17885, 2024
+
+- C. Simoiu, C. Sumanth, A. Mysore, and S. Goel, Studying the “wisdom of crowds” at scale, Proceedings of the AAAI Conference on Human Computation and Crowdsourcing, vol. 7, pp. 171–179, 2019.
