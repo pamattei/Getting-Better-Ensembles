@@ -1,7 +1,7 @@
 # Are Ensembles Getting Better all the Time?
 This repository replicates the experiments of Mattei & Garreau (2024).
 
-The notebooks wisdom_crowds_rotten_tomatoes replicates and extends the results on using crowds to predict the ratings of future movies, based on data collected by Simoiu et al. (2019) available [here](https://github.com/stanford-policylab/wisdom-of-crowds). 
+The notebook wisdom_crowds_rotten_tomatoes replicates and extends the results on using crowds to predict the ratings of future movies, based on data collected by Simoiu et al. (2019) available [here](https://github.com/stanford-policylab/wisdom-of-crowds). 
 
 
 References:
